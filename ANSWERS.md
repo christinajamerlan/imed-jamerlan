@@ -202,7 +202,7 @@ I could not find a fixed price in the scraped procedure pages. How much will my 
 
 The procedure pages explicitly state that fees vary depending on referral details, procedure type, and Medicare rebates, so a fixed price does not exist/cannot be produced.
 
-### 2. “Which clinic near me performs MRI scans?”
+### 2. “Which clinic performs MRI scans?”
 
 **Reason:**  
 (b) Data exists, but my scraper could not access it.

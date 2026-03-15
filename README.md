@@ -171,6 +171,10 @@ scikit-learn
 
 # Running the System
 
+## Simply run "./run.sh"
+
+OR
+
 ### 1. Scrape procedure pages
 
 python src/scrape.py

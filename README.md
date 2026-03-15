@@ -171,7 +171,7 @@ scikit-learn
 
 # Running the System
 
-## Simply run "./run.sh"
+## Simply run "./run.sh" which will take you directly to the CLI
 
 OR
 

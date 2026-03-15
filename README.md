@@ -128,7 +128,7 @@ This prevents hallucinated answers and ensures responses remain grounded in the 
 
 # Project Structure
 
-imed-ai-assignment  
+imed-jamerlan
 │  
 ├── data  
 │   ├── urls.txt  

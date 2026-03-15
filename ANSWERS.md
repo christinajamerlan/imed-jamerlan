@@ -193,7 +193,7 @@ Based on the MRI cost email and the clinic finder scraping test, here are some r
 
 ### 1. “How much will my MRI cost?”
 
-**Actual answer:
+**Actual system response:**
 
 I could not find a fixed price in the scraped procedure pages. How much will my procedure cost? monetization_on How much will my procedure cost?
 
@@ -204,6 +204,9 @@ The procedure pages explicitly state that fees vary depending on referral detail
 
 ### 2. “Which clinic performs MRI scans?”
 
+**Actual system response:**
+Are there any risks to having an MRI? MRI scans do not use ionising radiation, unlike other types of medical scans such as X-rays and CT. An MRI scan, is therefore considered a safer alternative, particularly for individuals that might be at higher risk, such as pregnant women.
+
 **Reason:**  
 (b) Data exists, but my scraper could not access it.
 
@@ -211,10 +214,13 @@ The clinic finder page contains this information but uses a directory-style layo
 
 ### 3. “Does my local clinic bulk bill CT scans?”
 
+**Actual system response:**
+Pensioners and healthcare card holders are bulk billed for most Medicare rebateable imaging procedures. Will my x-ray be bulk billed or not? To discuss the cost of your x-ray, contact I-MED Radiology by calling your local clinic and select the 'Booking' option in our phone system.
+
 **Reason:**  
 (a) Data does not exist on the website.
 
-Billing policies depend on clinic location, referral details, and patient eligibility. This information is typically handled through booking systems or staff consultation rather than static web pages.
+Billing policies depend on clinic location, referral details, and patient eligibility. This information is provided via calling/booking with a specific clinic.
 
 ---
 ## Q4: The CT scan page on i-med.com.au has separate preparation instructions for brain CT, chest CT, and abdomen/pelvis CT. Paste the chunks your system produces for this page. Are the three prep types in the same chunk or separate chunks? What does your chatbot return for the query: ‘Do I need to fast before a chest CT scan?'

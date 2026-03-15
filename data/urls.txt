@@ -1,0 +1,9 @@
+# I-MED procedure pages
+https://i-med.com.au/procedures/ultrasound
+https://i-med.com.au/procedures/general-x-ray
+https://i-med.com.au/procedures/brain-mri
+https://i-med.com.au/procedures/mammography
+https://i-med.com.au/procedures/ultrasound
+https://i-med.com.au/procedures/womens-imaging
+https://i-med.com.au/procedures/bone-densitometry-dexa
+http://i-med.com.au/procedures/ct-scan

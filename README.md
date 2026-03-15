@@ -227,18 +227,23 @@ Type `exit` to quit.
 5 example questions tested with the system:
 
 Q: How do I prepare for an abdominal ultrasound?  
+
 A: Abdomen ultrasound You will need to fast (have nothing to eat, drink, smoke or chew) for six hours prior to the examination. Vascular (blood vessel related) ultrasound Renal (kidney) arteries – You will need to fast (have nothing to eat or drink) for eight hours prior to the examination to ensure that the renal arteries are not covered by food or fluid. How do I prepare for an ultrasound?
 
 Q: What are the risks of a CT scan?
+
 A: Radiation exposure: As is the case with most tests and medications prescribed by your doctor, CT does have risks that cannot be avoided. Our staff are highly trained to minimise these risks by using the lowest possible radiation dose to achieve quality images that allow the radiologist to make an accurate diagnosis. As is commonly known, x-rays are a form of radiation and must be used carefully by trained professionals to decrease the risks involved.
 
 Q: When can I get my MRI results?
+
 A: In some cases, it can take up to a week or more to receive all results from your MRI. How do I get my results? It is very important that you discuss the results with the doctor who referred you so they can explain what the results mean for you.
 
 Q: How long does a mammography take?
+
 A: How long does mammography take? If you have breast implants, the mammography will take longer (approximately 30 minutes) because it takes more time to make sure clear images are taken. Standard diagnostic mammography takes between 10-15 minutes.
 
 Q: When can I get my CT scan results?
+
 A: The radiographer will not be able to give you any results after the CT scan; this is the responsibility of your doctor and the radiologist who interprets the images from the scan and provides a report to your doctor. If your results are urgent, or you have a same day appointment with your doctor we will arrange for your results to be available immediately following the scan. How do I get my results?
 
 
